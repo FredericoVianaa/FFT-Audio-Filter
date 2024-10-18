@@ -43,7 +43,7 @@ O título, os rótulos do eixo X e Y também podem ser alterados diretamente no 
     ```
 
 ## 📊 Exemplo dos Gráficos 
-![](<Assets\image.png>)
+![Gráfico1](<Assets\image.png>)
 - No exemplo acima, foi utilizada a música Believer da banda Imagine Dragons.
 
 ## ✅ Conclusão
