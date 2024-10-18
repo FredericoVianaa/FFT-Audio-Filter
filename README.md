@@ -31,15 +31,19 @@ Os gráficos gerados pelo script permitem a visualização das frequências do �
   
   ```python
   plt.xlim(0, 500)  # Altere o valor 500 para o limite desejado
+  ```
 
 - **Títulos e Rótulos**:
 O título, os rótulos do eixo X e Y também podem ser alterados diretamente no código, caso queira personalizar a plotagem.
+
     ```python
     plt.title('Transformada de Fourier - Faixa de 0 a 500 Hz')
     plt.xlabel('Frequência (Hz)')
     plt.ylabel('Magnitude')
+    ```
+
 ## 📊 Exemplo dos Gráficos 
-![alt text](image.png)
+![](<Assets\image.png>)
 - No exemplo acima, foi utilizada a música Believer da banda Imagine Dragons.
 
 ## ✅ Conclusão
